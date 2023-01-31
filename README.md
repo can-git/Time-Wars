@@ -1,15 +1,33 @@
 # TimeWars
-2D Mobile Game with Unity
 
-It is my first game project and I have started to this game for the school project. I have learned the content from an Udemy course and many changes have added rather than the original one.
+<p align="left"><img src="etc/unity.png" height=50></p>
 
-To see the original project : https://www.udemy.com/course/unitycourse/learn/lecture/12173852#overview
+2D Game with Unity
 
-To play with WebGL : https://sharemygame.com/@CanU/time-wars
+My first game project, started as a school project, using skills learned from an Udemy course. Significant changes have been made to the original design.
 
-<img src="https://i.ibb.co/QNZ8MLD/tw1.png" alt="tw1" border="0">
-<img src="https://i.ibb.co/C02W5dM/tw2.png" alt="tw2" border="0">
+[<img alt='Udemy' src='etc/originalcourse.png' width="200px" style="padding:15px"/>](https://www.udemy.com/course/unitycourse/learn/lecture/12173852#overview "See the original course")
+&nbsp;&nbsp;&nbsp;
+[<img alt='WebGL' src='etc/play-online-badge.png' width="200px" style="padding:15px"/>](https://sharemygame.com/@CanU/time-wars "Play it online")
 
-In a short, you are trying to defend your side by gaining coin and killing the enemies before they passed the left side of the map with your characters. And levels will being harder.
 
-This game has only 10 levels and it has created for the school project so it will not upload to Google Play Store for now.
+<p align="left">
+<img src="etc/ss1.png" height=300>
+</p>
+
+
+<p align="left">
+<img src="etc/ss2.png" height=300>
+</p>
+
+The goal of the game is to defend your side by collecting coins and defeating enemies, using characters, before they reach the left side of the map. The game has 10 levels with increasing difficulty. 
+
+It was created as a school project and is not available on the Google Play Store at present.
+
+## Getting Started :traffic_light:
+
+This project requires [Unity3D](https://unity.com/ "Unity home") (2019.2.0+) to build and run. Clone this repository and open the root folder in Unity.
+
+## Credits :clipboard:
+
+Thank you for the big effort of [Rick](https://www.youtube.com/rickdavidsonchannel "Youtube of Rick") and platform assisting [GameDev.tv](https://www.gamedev.tv/ "GameDev.tv")
